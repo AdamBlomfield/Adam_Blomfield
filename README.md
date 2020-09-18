@@ -7,6 +7,8 @@ Adam's Data Science Project Portfolio
 
 ![](/images/accuracy_of_machine_learning_models.png)
 
+![final_function](https://github.com/AdamBlomfield/My_Portfolio_Website/blob/master/images/final_function.gif)
+
 ---
 
 # Project 2: [Credit Card Fraud Detection](https://github.com/AdamBlomfield/credit_card_fraud)
