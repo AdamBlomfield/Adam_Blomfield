@@ -5,6 +5,8 @@ Adam's Data Science Project Portfolio
 * Used UFC data to predict the outcome of a bout
 * Used ......
 
+![](https://github.com/AdamBlomfield/My_Portfolio_Website/blob/master/images/accuracy_of_machine_learning_models.png)
+
 # Project 2: [Credit Card Fraud Detection](https://github.com/AdamBlomfield/credit_card_fraud)
 * .....
 
