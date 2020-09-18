@@ -1,5 +1,5 @@
-# My_Portfolio_Website
-Adam's Data Science Project Portfolio
+# Welcome
+Data Science Project Portfolio
 
 # Project 1: [UFC Prediction](https://github.com/AdamBlomfield/machine_learning_ufc_data)
 * Used UFC data to predict the outcome of a bout
