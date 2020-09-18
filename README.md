@@ -5,7 +5,7 @@ Adam's Data Science Project Portfolio
 * Used UFC data to predict the outcome of a bout
 * Used ......
 
-![](/images/accuracy_of_machine_learning_models.png)
+      ![](/images/accuracy_of_machine_learning_models.png)
 
 ---
 
